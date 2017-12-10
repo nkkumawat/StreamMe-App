@@ -1,2 +1,2 @@
 # StramMe-App
-Android App Stream Msic
+Android App Stream Music
